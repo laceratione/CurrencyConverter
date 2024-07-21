@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="summ">Сумма</string>
+    <string name="convert_button_text">Конвертировать</string>
+    <string name="title_currency">Выбрать валюту</string>
+    <string name="label_amount">Сумма</string>
+    <string name="placeholder_amount">Введите сумму</string>
+    <string name="amount_empty_error">Пустая строка</string>
+    <string name="amount_invalid_error">Ввод некорректен</string>
+
+    <string-array name="currencies">
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>CNY</item>
+    </string-array>
+</resources>
